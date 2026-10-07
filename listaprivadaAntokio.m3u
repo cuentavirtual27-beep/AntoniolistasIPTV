@@ -1,0 +1,345 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKjinCoWFHkztF64Vx1L2lwcJI3.jpg" group-title="PELICULAS DE  TERROR", Musa (2017)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/121642.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex7qgLLenbWnc77tG3eatlv13ol.jpg" group-title="PELICULAS DE DRAMA", Me estás matando, Susana (2016)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/131955.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrGIZEhaTt5GrIYRvFW4cMWY8du.jpg" group-title="PELICULAS DE  TERROR", Train to Busan 2 (2020)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/126610.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqPTx3z2RVOvrIO3aJYO7avSavC.jpg" group-title="POLICIAL, SUSPENSO. CRIMEN", Causalidad (2021)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/121326.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49Kv5ZVWmkdRtH36qRYIcDtqwDg.jpg" group-title="POLICIAL, SUSPENSO. CRIMEN", Acusado (2023)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/91130.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqPTx3z2RVOvrIO3aJYO7avSavC.jpg" group-title="CINE ARGENTINO/URUGUAYO", Causalidad (2021)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/91880.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oleJ8S5dwAOhvApbMLXMuBsYHbL.jpg" group-title="CINE ARGENTINO/URUGUAYO", Acusada (2018)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/80445.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6ABtrQIf3cxCAGbquP9JJfWtT9.jpg" group-title="PELICULAS CLASICAS", Causa justa (1995)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/73776.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yMQxHIQERFxNPnbbhxOO8nqVdq.jpg" group-title="PELICULAS DE DRAMA", A Thousand and One (2023)
+http://planettvweb.com:8091/movie/Cristina90/GVad4237d/70508.mkv
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/359-3595142_original-television-series-movies-and-sports-programming-usa.png" group-title="CANALES DE SERIE", Usa Series
+http://planettvweb.com:8091/Cristina90/GVad4237d/141568
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/WPLGlogo.png" group-title="USA", ABC MIAMI
+http://planettvweb.com:8091/Cristina90/GVad4237d/16867
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="USA", TELEMUNDO MIAMI
+http://planettvweb.com:8091/Cristina90/GVad4237d/12743
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="USA", TELEMUNDO TAMPA
+http://planettvweb.com:8091/Cristina90/GVad4237d/12742
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="USA", TENNIS CHANNEL
+http://planettvweb.com:8091/Cristina90/GVad4237d/16865
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="USA", Cartoon Network
+http://planettvweb.com:8091/Cristina90/GVad4237d/16847
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/e0/e035728cb8bab598fbba5861ef68c0ad.png" group-title="USA", HD:ESPN 2
+http://planettvweb.com:8091/Cristina90/GVad4237d/24634
+
+#EXTINF:-1 tvg-logo="https://www.pesdish.com/wp-content/uploads/2016/07/acmax.png" group-title="USA", Espn 3
+http://planettvweb.com:8091/Cristina90/GVad4237d/24445
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLjyayLy0dtJNaOfNfPqK7eRb2S.jpg" group-title="NETFLIX", Medusa S02 E02
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161579.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1y4KdbCVoyec3HZihPNJUSUxWr.jpg" group-title="NETFLIX", Medusa S02 E03
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161580.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt2iSmHMxF8mmoyJhLF4fgdOZ8J.jpg" group-title="NETFLIX", Medusa S02 E04
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161581.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3b9c1JLle7hFxI2jmqABC8ydzl.jpg" group-title="NETFLIX", Medusa S02 E05
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161582.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XbQjBbUMnkHjF2wJUaSZO2VptM.jpg" group-title="NETFLIX", Medusa S02 E06
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161583.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9AGlUVe5aB7nQpXNXbEAz16sVw.jpg" group-title="NETFLIX", Medusa S02 E07
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161584.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4K8AareAVBUOag3BpjkN0zgpwDo.jpg" group-title="NETFLIX", Medusa S02 E08
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161585.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xERANlj0DzzB9zEiBIJQSZ6GZeF.jpg" group-title="NETFLIX", Medusa S02 E09
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161586.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHxmyngtqA97EX1lHEKdUeAezZu.jpg" group-title="NETFLIX", Medusa S02 E10
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161587.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GT8kHx8T3Z6jyX8SO83QADaVCy.jpg" group-title="NETFLIX", Medusa S02 E11
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161588.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB4INrINxuD7KrvKN1vWHaqZB5F.jpg" group-title="NETFLIX", Medusa S02 E12
+http://planettvweb.com:8091/series/Cristina90/GVad4237d/161589.mkv
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CINE ACCION 01
+http://planettvweb.com:8091/Cristina90/GVad4237d/20347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 02
+http://planettvweb.com:8091/Cristina90/GVad4237d/74599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 03
+http://planettvweb.com:8091/Cristina90/GVad4237d/74600
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 04
+http://planettvweb.com:8091/Cristina90/GVad4237d/74601
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Acción 05
+http://planettvweb.com:8091/Cristina90/GVad4237d/74602
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Animaciones
+http://planettvweb.com:8091/Cristina90/GVad4237d/74603
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El mentalista
+http://planettvweb.com:8091/Cristina90/GVad4237d/74604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Cine Club
+http://planettvweb.com:8091/Cristina90/GVad4237d/74605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: Familiar 01
+http://planettvweb.com:8091/Cristina90/GVad4237d/74606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", CINE: ORO
+http://planettvweb.com:8091/Cristina90/GVad4237d/74607
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", El Laboratorio de Dexter [1 - 4T]
+http://planettvweb.com:8091/Cristina90/GVad4237d/74608
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", DraginBall
+http://planettvweb.com:8091/Cristina90/GVad4237d/74609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragon BallGT
+http://planettvweb.com:8091/Cristina90/GVad4237d/74610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragon Ball Super
+http://planettvweb.com:8091/Cristina90/GVad4237d/74611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Dragin Ball Z
+http://planettvweb.com:8091/Cristina90/GVad4237d/74612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Family Guy
+http://planettvweb.com:8091/Cristina90/GVad4237d/74613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Clásicos Disney
+http://planettvweb.com:8091/Cristina90/GVad4237d/74614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Las aventuras de Tom Sawyer
+http://planettvweb.com:8091/Cristina90/GVad4237d/74615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Peliculas Universo DC
+http://planettvweb.com:8091/Cristina90/GVad4237d/74616
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Peliculas Batman
+http://planettvweb.com:8091/Cristina90/GVad4237d/74617
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Game of Thrones HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/74618
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Las nuevas aventuras de Batman
+http://planettvweb.com:8091/Cristina90/GVad4237d/74619
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", House of Cards
+http://planettvweb.com:8091/Cristina90/GVad4237d/74620
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", La casa de papel
+http://planettvweb.com:8091/Cristina90/GVad4237d/20341
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", DR House
+http://planettvweb.com:8091/Cristina90/GVad4237d/20342
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Marvel Cronologia
+http://planettvweb.com:8091/Cristina90/GVad4237d/20343
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Breaking Bad [Completo]
+http://planettvweb.com:8091/Cristina90/GVad4237d/20344
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Ficcion/Fantasia 1
+http://planettvweb.com:8091/Cristina90/GVad4237d/20345
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Ficcion/Fantasia 2
+http://planettvweb.com:8091/Cristina90/GVad4237d/20346
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Los años maravillosos
+http://planettvweb.com:8091/Cristina90/GVad4237d/20348
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Infantil
+http://planettvweb.com:8091/Cristina90/GVad4237d/20349
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Infantil HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/20350
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Latino
+http://planettvweb.com:8091/Cristina90/GVad4237d/20352
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Marvel Orden Estreno
+http://planettvweb.com:8091/Cristina90/GVad4237d/20353
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Cine Romance HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/20354
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Bob Esponja
+http://planettvweb.com:8091/Cristina90/GVad4237d/16421
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", CANTINFLAS SD
+http://planettvweb.com:8091/Cristina90/GVad4237d/16422
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Chespirito
+http://planettvweb.com:8091/Cristina90/GVad4237d/16423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Sin senos sí hay paraíso
+http://planettvweb.com:8091/Cristina90/GVad4237d/38574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Los Simpson (Temporadas 18-21)
+http://planettvweb.com:8091/Cristina90/GVad4237d/38575
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Los Simpson (Temporadas 22-26)
+http://planettvweb.com:8091/Cristina90/GVad4237d/38576
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", Sin Senos no hay Paraíso
+http://planettvweb.com:8091/Cristina90/GVad4237d/38577
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:EL CHAVO DEL 8
+http://planettvweb.com:8091/Cristina90/GVad4237d/16425
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", LA_SD:CHAPULIN COLORADO
+http://planettvweb.com:8091/Cristina90/GVad4237d/16426
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:MR. BEAN
+http://planettvweb.com:8091/Cristina90/GVad4237d/16427
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Looney Tunes
+http://planettvweb.com:8091/Cristina90/GVad4237d/16428
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Scooby Doo
+http://planettvweb.com:8091/Cristina90/GVad4237d/16429
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Alf
+http://planettvweb.com:8091/Cristina90/GVad4237d/16430
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Los Picapiedra
+http://planettvweb.com:8091/Cristina90/GVad4237d/16431
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Two And a Half Men 24/7
+http://planettvweb.com:8091/Cristina90/GVad4237d/16432
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Dragon Ball GT
+http://planettvweb.com:8091/Cristina90/GVad4237d/16434
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:DRAGON BALL
+http://planettvweb.com:8091/Cristina90/GVad4237d/16435
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", SD:Naruto
+http://planettvweb.com:8091/Cristina90/GVad4237d/16436
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Friends
+http://planettvweb.com:8091/Cristina90/GVad4237d/16437
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Elfen Lied
+http://planettvweb.com:8091/Cristina90/GVad4237d/17747
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Looney Tunes
+http://planettvweb.com:8091/Cristina90/GVad4237d/17748
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", El Coyote y el Correcaminos [Completo]
+http://planettvweb.com:8091/Cristina90/GVad4237d/17749
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", TOM Y JERRY SERIE COMPLETA
+http://planettvweb.com:8091/Cristina90/GVad4237d/17751
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Liga De La Justicia Ilimitada
+http://planettvweb.com:8091/Cristina90/GVad4237d/17752
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Daremound
+http://planettvweb.com:8091/Cristina90/GVad4237d/17753
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Peliculas Scary Movie
+http://planettvweb.com:8091/Cristina90/GVad4237d/17754
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", PINKI ELVIRA Y CEREBRO
+http://planettvweb.com:8091/Cristina90/GVad4237d/17755
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Pokémon
+http://planettvweb.com:8091/Cristina90/GVad4237d/17761
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Los Picapiedra
+http://planettvweb.com:8091/Cristina90/GVad4237d/17763
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", Un Show Más
+http://planettvweb.com:8091/Cristina90/GVad4237d/17764
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", LA PANTERA ROSA
+http://planettvweb.com:8091/Cristina90/GVad4237d/17765
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", GARFIELD Y SUS AMIGOS
+http://planettvweb.com:8091/Cristina90/GVad4237d/17767
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/horas-d%C3%ADas-la-semana-114225716.jpg" group-title="24/7", EL SHOW DE LA PEQUEÑA LU LU
+http://planettvweb.com:8091/Cristina90/GVad4237d/17769
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" group-title="CINE", CINEMAX SD
+http://planettvweb.com:8091/Cristina90/GVad4237d/11672
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="CINE", Az Cinema
+http://planettvweb.com:8091/Cristina90/GVad4237d/12039
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/filmandarts.jpg" group-title="CINE", FILM Y ARTS SD
+http://planettvweb.com:8091/Cristina90/GVad4237d/11626
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="CINE", HBO POP SD
+http://planettvweb.com:8091/Cristina90/GVad4237d/26319
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINE", HBO POP
+http://planettvweb.com:8091/Cristina90/GVad4237d/16284
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" group-title="CINE", HBO Plus
+http://planettvweb.com:8091/Cristina90/GVad4237d/24710
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE", HBO SIGNATURE HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/11659
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" group-title="CINE", HBO 2 HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/11656
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7ee8d074-a43d-468d-ac6a-8971cac696ee_m.jpg" group-title="CINE", GOLDEN SD
+http://planettvweb.com:8091/Cristina90/GVad4237d/11705
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/434-4344309_golden-plus-golden-plus-logo-png.png" group-title="CINE", Golden Plus HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/13465
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/ActionMax/action%20max.png" group-title="CINE", Golden Premiere 2
+http://planettvweb.com:8091/Cristina90/GVad4237d/88283
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1987648.png" group-title="CINE", Golden Premiere
+http://planettvweb.com:8091/Cristina90/GVad4237d/88284
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="CINE", GOLDEN HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/17813
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.GoldenPlus.png.2bb811abb24ea652e0afb3148038747e.png" group-title="CINE", Golden Plus HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/11941
+
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Golden-Premier-logo.png" group-title="CINE", Golden Premier HD
+http://planettvweb.com:8091/Cristina90/GVad4237d/11936
+
+
